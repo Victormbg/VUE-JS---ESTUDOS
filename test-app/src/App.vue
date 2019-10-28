@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <router-view/>
+    <h1>HELLO WORLD</h1>
+    <h2>TESTE VUE</h2>
   </div>
 </template>
 
